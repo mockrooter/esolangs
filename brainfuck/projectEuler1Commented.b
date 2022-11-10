@@ -33,3 +33,5 @@ first column: sum
     >[-<+>]<                                                                        |
     >>+[<+>-<<[>]>]<<-<                                                             |_
 -]<
+
+the first column now has value 233168
