@@ -34,4 +34,4 @@ first column: sum
     >>+[<+>-<<[>]>]<<-<                                                             |_
 -]<
 
-the first column now has value 233168
+the first column now has a value of 233168
